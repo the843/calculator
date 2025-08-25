@@ -32,10 +32,6 @@ calculator/
 ```bash
 git clone https://github.com/the843/calculator.git
 Navigate to the project folder:
-
-bash
-Copy
-Edit
 cd calculator
 Open index.html in your browser to see the calculator running.
 
