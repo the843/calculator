@@ -59,7 +59,7 @@ Canvas API for animation
 Vercel for deployment
 
 Screenshot
-(Optional: add a screenshot of your calculator here)
+![Calculator Screenshot](mokolator.png)
 
 Live Demo
 https://calculator-rho-beige-31.vercel.app/
