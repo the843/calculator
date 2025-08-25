@@ -17,20 +17,54 @@ You can try it online here: [Live Demo on Vercel](https://calculator-rho-beige-3
 ---
 
 ## **Project Structure**
-\calculator
 
-         Length Name
-      ------ ----
-        857 animation.js
-         1529 index.html
-         547 index.js
-        962 style.css
+calculator/
+├── index.html # Main HTML file
+├── style.css # Stylesheet for layout and design
+├── index.js # Calculator functionality
+├── animation.js # Simple canvas animation
 ## **How to Run Locally**
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/the843/calculator.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
 cd calculator
-Open index.html in your browser
+Open index.html in your browser to see the calculator running.
+
+Usage
+Click the number buttons to enter values.
+
+Click the operation buttons (+, -, *, /) to choose an operation.
+
+Click = to calculate the result.
+
+Click C to clear the display.
+
+The animation runs continuously in the top canvas.
+
+Technologies Used
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+Canvas API for animation
+
+Vercel for deployment
+
+Screenshot
+(Optional: add a screenshot of your calculator here)
+
+Live Demo
+https://calculator-rho-beige-31.vercel.app/
+
+Author
+Hix (GitHub: https://github.com/the843)
 
 
