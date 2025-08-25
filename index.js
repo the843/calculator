@@ -4,7 +4,7 @@ let input = document.querySelector("input");
 btn.forEach(button => {
     button.addEventListener("click", (e) => {
         const value = e.target.textContent;
-        if (value === "C") {
+        if (value === "C") {   
             input.value = "";
         } else if (value  === "=") {
             try {
