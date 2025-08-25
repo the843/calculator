@@ -23,6 +23,9 @@ calculator/
 ├── style.css # Stylesheet for layout and design
 ├── index.js # Calculator functionality
 ├── animation.js # Simple canvas animation
+## Screenshot 
+![Calculator Screenshot](mokolator.png)
+
 ## **How to Run Locally**
 
 1. Clone the repository:
@@ -58,8 +61,6 @@ Canvas API for animation
 
 Vercel for deployment
 
-Screenshot
-![Calculator Screenshot](mokolator.png)
 
 Live Demo
 https://calculator-rho-beige-31.vercel.app/
