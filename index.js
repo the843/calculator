@@ -6,14 +6,14 @@ btn.forEach(button => {
         const value = e.target.textContent;
         if (value === "C") {
             input.value = "";
-        } else if (value === "=") {
+        } else if (value  === "=") {
             try {
-                input.value = eval(input.value);
+                input.value = eval(input.value) || "";
             } catch {
                 input.value = "Error";
             }
         } else {
-            input.value += value;
+            input.value += value ;
         }
     });
 });
